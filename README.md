@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Hi, a Full Stack web developer.</h1>
+<h1>Hi 👋, I'm a Full Stack web developer.</h1>
 <p>Desarrollador Web | Experto en HTML, CSS, JS | Utilizando Next.js & React | Apasionado por las Nuevas Tendencias Tecnológicas</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
